@@ -1,0 +1,11 @@
+E:\Practice Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+E:\Practice Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+E:\Practice Assignments\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+E:\Practice Assignments\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frm_LOGIN.resources
+E:\Practice Assignments\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frm_Add_New_Product.resources
+E:\Practice Assignments\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.frm_Product_Details.resources
+E:\Practice Assignments\Assignment 1\Assignment 1\obj\x86\Debug\Assignment_1.Properties.Resources.resources
+E:\Practice Assignments\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.csproj.GenerateResource.Cache
+E:\Practice Assignments\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.exe
+E:\Practice Assignments\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.pdb
+E:\Practice Assignments\Assignment 1\Assignment 1\obj\x86\Debug\Assignment 1.csprojResolveAssemblyReference.cache
